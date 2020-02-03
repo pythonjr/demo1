@@ -1,0 +1,6 @@
+f= open('data', 'r')
+f = open("bcd", "w")
+f.write("something")
+##print(f.read())
+##print(f.readline())
+##print(f.readline())
